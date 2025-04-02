@@ -1,10 +1,10 @@
-package com.mycompany.funtion_java_johann_tatiana;
+package com.mycompany.funtion_java_felipe_karol;
 
 /**
  *
  * @author Estudiantes
  */
-public class Funtion_Java_Johann_Tatiana {
+public class funtion_java_felipe_karol{
 
     public static void main(String[] args) {
         int resultado;
